@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-office
+uim-office.so
+uim-office.dylib
+uim-office.dll
+uim-office.a
+uim-office.lib
+uim-office-test-*
+*.exe
+*.o
+*.obj
+*.lst
